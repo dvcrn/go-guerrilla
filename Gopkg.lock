@@ -11,7 +11,7 @@
 [[projects]]
   branch = "master"
   digest = "1:32198c2fad05a5d186607a3ca7587b71f1e4e80046ea852cdf8c20904180aea2"
-  name = "github.com/flashmob/go-guerrilla"
+  name = "github.com/dvcrn/go-guerrilla"
   packages = [
     ".",
     "backends",
@@ -154,17 +154,17 @@
   analyzer-version = 1
   input-imports = [
     "github.com/asaskevich/EventBus",
-    "github.com/flashmob/go-guerrilla",
-    "github.com/flashmob/go-guerrilla/backends",
-    "github.com/flashmob/go-guerrilla/backends/storage/redigo",
-    "github.com/flashmob/go-guerrilla/log",
-    "github.com/flashmob/go-guerrilla/mail",
-    "github.com/flashmob/go-guerrilla/mail/encoding",
-    "github.com/flashmob/go-guerrilla/mail/rfc5321",
-    "github.com/flashmob/go-guerrilla/mocks",
-    "github.com/flashmob/go-guerrilla/response",
-    "github.com/flashmob/go-guerrilla/tests",
-    "github.com/flashmob/go-guerrilla/tests/testcert",
+    "github.com/dvcrn/go-guerrilla",
+    "github.com/dvcrn/go-guerrilla/backends",
+    "github.com/dvcrn/go-guerrilla/backends/storage/redigo",
+    "github.com/dvcrn/go-guerrilla/log",
+    "github.com/dvcrn/go-guerrilla/mail",
+    "github.com/dvcrn/go-guerrilla/mail/encoding",
+    "github.com/dvcrn/go-guerrilla/mail/rfc5321",
+    "github.com/dvcrn/go-guerrilla/mocks",
+    "github.com/dvcrn/go-guerrilla/response",
+    "github.com/dvcrn/go-guerrilla/tests",
+    "github.com/dvcrn/go-guerrilla/tests/testcert",
     "github.com/go-sql-driver/mysql",
     "github.com/gomodule/redigo/redis",
     "github.com/sirupsen/logrus",

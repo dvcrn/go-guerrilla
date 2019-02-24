@@ -3,8 +3,8 @@ package backends
 import (
 	"fmt"
 
-	"github.com/flashmob/go-guerrilla/mail"
-	"github.com/flashmob/go-guerrilla/response"
+	"github.com/dvcrn/go-guerrilla/mail"
+	"github.com/dvcrn/go-guerrilla/response"
 )
 
 // ----------------------------------------------------------------------------------

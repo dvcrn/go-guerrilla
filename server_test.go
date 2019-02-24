@@ -11,10 +11,10 @@ import (
 
 	"crypto/tls"
 	"fmt"
-	"github.com/flashmob/go-guerrilla/backends"
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/mail"
-	"github.com/flashmob/go-guerrilla/mocks"
+	"github.com/dvcrn/go-guerrilla/backends"
+	"github.com/dvcrn/go-guerrilla/log"
+	"github.com/dvcrn/go-guerrilla/mail"
+	"github.com/dvcrn/go-guerrilla/mocks"
 	"io/ioutil"
 	"net"
 )
